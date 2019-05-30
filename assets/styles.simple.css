@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700&display=swap');
+
+*:root {
+  --dimmed-color: #ddd;
+  --page-width: 920px;
+}
+
+body {
+  display: grid;
+  grid-template-rows: 1fr auto;
+  grid-row-gap: 3rem;
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+
+  font-family: 'Source Code Pro', monospace;
+  line-height: 1.25;
+}
+
+h2 {
+  margin-top: 2rem;
+  border-bottom: 1px solid var(--dimmed-color);
+  padding-bottom: 0.5rem;
+}
+
+ul, ol {
+  padding-left: 0;
+}
+
+li {
+  margin: 1em 0;
+}
+
+main {
+  max-width: var(--page-width);
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.main-footer {
+  border-top: 1px solid var(--dimmed-color);
+}
+
+.main-footer > * {
+  max-width: var(--page-width);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.label {
+  background: var(--dimmed-color);
+  padding: 0 0.25em;
+  text-transform: uppercase;
+  border-radius: 4px;
+  font-size: smaller;
+}
