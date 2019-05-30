@@ -7,6 +7,7 @@
     "start": "eleventy --input=src --output=dist --formats=md,css --serve",
     "build": "npm run clean && eleventy --input=src --output=dist --formats=md,css",
     "clean": "rimraf dist",
+    "deploy": "npm run build && gh-pages -d dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -23,6 +24,7 @@
   "homepage": "https://github.com/belen-albeza/gamejam-powerlist#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.8.3",
+    "gh-pages": "^2.0.1",
     "rimraf": "^2.6.3"
   }
 }

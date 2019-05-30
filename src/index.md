@@ -2,6 +2,7 @@
 layout: default.njk
 title: Benko's Game Jam Powerlist
 ---
+
 # 🕹 Benko's Game Jam Powerlist
 
 A curated list of resources, articles, tools, etc. for developing games at **game jams**.
@@ -48,9 +49,12 @@ A curated list of resources, articles, tools, etc. for developing games at **gam
 - [Kenney Assets](https://kenney.nl/assets): high quality art assets for games, with a Public Domain license.
 - [OpenGameArt](https://opengameart.org): collection of assets for games (mostly images) with Creative Commons licenses.
 
+### Tools & apps
+
+- [Pyxel Edit](https://pyxeledit.com/) Pixel art editor (Win and Mac).
+- [Aseprite](https://www.aseprite.org/) Another popular pixel art editor (Win, Linux and Mac)
 
 ## 🎹 Audio
-
 
 ### Articles and tutorials
 
@@ -58,11 +62,17 @@ A curated list of resources, articles, tools, etc. for developing games at **gam
 
 ### Tools & apps
 
-- [Pyxel Edit](https://pyxeledit.com/) Pixel art editor (Win and Mac).
-- [Aseprite](https://www.aseprite.org/) Another popular pixel art editor (Win, Linux and Mac)
+- <span class="label">free</span> [Bfxr.net](https://www.bfxr.net/): online sound effect generator, chiptune-style.
+- <span class="label">free</span> [Bosca Ceoil](https://boscaceoil.net/): a beginner-friendly music tracker.
 
 ## 🔗 Useful websites
 
 - [Itch](https://itch.io/): game & game assets marketplace. Good for research, inspiration and to purchase assets.
 - [GDC Vault](https://www.gdcvault.com/): archive of GDC (Game Developer Conference) talks.
 - [Gamasutra](https://www.gamasutra.com/): the reference website of game development.
+
+## 🎉 Game jams
+
+- [Ludum Dare](https://ldjam.com/): remote/online game jam, with thousands of participants all around the world. 2 editions per year (April and October).
+- [Game Jams at Itch](https://itch.io/jams): hundreds of game jams are hosted at Itch.
+- [Global Game Jam](https://globalgamejam.org/): a large game jam, with physical locations all around the world. 1 edition per year (January).
