@@ -1,0 +1,28 @@
+{
+  "name": "gamejam-powerlist",
+  "version": "1.0.0",
+  "description": "A curated list of resources, articles, tools, etc. for developing games at game jams.",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --input=src --output=dist --formats=md,css --serve",
+    "build": "npm run clean && eleventy --input=src --output=dist --formats=md,css",
+    "clean": "rimraf dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belen-albeza/gamejam-powerlist.git"
+  },
+  "keywords": [],
+  "author": "Belén \"Benko\" Albeza",
+  "private": true,
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/belen-albeza/gamejam-powerlist/issues"
+  },
+  "homepage": "https://github.com/belen-albeza/gamejam-powerlist#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.8.3",
+    "rimraf": "^2.6.3"
+  }
+}
