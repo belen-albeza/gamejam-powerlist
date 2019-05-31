@@ -12,7 +12,7 @@ A curated list of resources, articles, tools, etc. for developing games at **gam
 ### Beginner-friendly
 
 - [PICO-8](https://www.lexaloffle.com/pico-8.php): A "fantasy virtual console", which is actually a 128x128 and 16 colors mini-engine. It uses Lua as a programming language, and features a very small set of instruction.
-- <span class="label">FREE</span> [Bitsy](http://ledoux.io/bitsy/): A simple tool to make retro, short narrative games or tiny adventures.
+- <span class="label">FREE</span> [Bitsy](https://ledoux.itch.io/bitsy): A simple tool to make retro, short narrative games or tiny adventures.
 - <span class="label">FREE</span> [Twine](https://twinery.org/): An engine for text-based narrative games.
 
 ### For people who (would) like to code
