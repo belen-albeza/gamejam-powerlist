@@ -17,6 +17,7 @@ A curated list of resources, articles, tools, etc. for developing games at **gam
 
 ### For people who (would) like to code
 
+- <span class="label">free</span> [Godot](https://www.godotengine.org/): 2D and 3D game engine, with a Python-like language and C++/C# bindings.
 - <span class="label">free</span> [Defold](https://www.defold.com/): 2D game engine aimed for mobile and Web games, by King. It uses Lua.
 - <span class="label">free</span> [Phaser](https://phaser.io): JavaScript 2D game framework, for Web games.
 - [Unity](https://unity.com/): 3D and 2D game engine, can build for most platforms. It has a free tier. Coding is done with C#.
