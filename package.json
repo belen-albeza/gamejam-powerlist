@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/belen-albeza/gamejam-powerlist#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^0.8.3",
+    "@11ty/eleventy": "^1.0.2",
     "gh-pages": "^2.0.1",
     "rimraf": "^2.6.3"
   }
